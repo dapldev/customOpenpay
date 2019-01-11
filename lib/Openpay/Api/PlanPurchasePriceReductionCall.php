@@ -32,7 +32,7 @@
  
  */
 Class PlanPurchasePriceReductionCall extends ApiConnection 
-{
+{     //make the busket data request
 	  private function _prepareXmldocument(){
         $this->xml = new SimpleXMLElement('<OnlineOrderReduction/>'); 
         $this->xml->addChild('JamAuthToken', $this->jamtoken );

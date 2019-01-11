@@ -34,7 +34,7 @@ parameters
 Class OnlineOrderFraudAlert extends ApiConnection 
 {
 	
-    
+    //make the busket data request
     private function _prepareXmldocument(){
         $this->xml = new SimpleXMLElement('<OnlineOrderFraudAlert/>'); 
         $this->xml->addChild('JamAuthToken', $this->jamtoken );

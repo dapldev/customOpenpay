@@ -8,7 +8,7 @@
 	This will return the range of your JamAuthToken
  */
 Class MinMaxPurchasePrice extends ApiConnection 
-{
+{    //making the api body with parameters in xml format
     private function _prepareXmldocument(){
         $this->xml = new SimpleXMLElement('<MinMaxPurchasePrice/>'); 
         $this->xml->addChild('JamAuthToken', $this->jamtoken ); 

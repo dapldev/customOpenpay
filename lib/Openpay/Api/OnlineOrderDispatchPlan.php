@@ -33,7 +33,7 @@
  PlanID             BigInt (13)    The PlanID that was inspected
  */
 Class OnlineOrderDispatchPlan extends ApiConnection 
-{
+{     //make the busket data request
 	  private function _prepareXmldocument(){
         $this->xml = new SimpleXMLElement('<OnlineOrderDispatchPlan/>'); 
         $this->xml->addChild('JamAuthToken', $this->jamtoken );

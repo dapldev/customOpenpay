@@ -29,4 +29,3 @@ require(dirname(dirname(__FILE__)) . '/Api/OnlineOrderCapturePayment.php');//cal
 require(dirname(dirname(__FILE__)) . '/Api/OnlineOrderStatus.php');//call-4
 require(dirname(dirname(__FILE__)) . '/Api/PlanPurchasePriceReductionCall.php');//refund 
 require(dirname(dirname(__FILE__)) . '/Api/OnlineOrderDispatchPlan.php');//Plan Dispatch Call 
-require(dirname(dirname(__FILE__)) . '/Api/OnlineOrderFraudAlert.php');//Customer Fraud Alert Call 

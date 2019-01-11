@@ -9,7 +9,7 @@
 * NOTE: This API call will actually take the deposit payment for the Plan and make the purchase Active in the Openpay system. This call must occur within 15 minutes from when the consumer has finished the Plan selection process and the user flow has redirected back to the host system.
  */
 Class OnlineOrderCapturePayment extends ApiConnection
-{      
+{   //make the busket data request   
     private function _prepareXmldocument(){
         $this->xml = new SimpleXMLElement('<OnlineOrderCapturePayment/>'); 
         $this->xml->addChild('JamAuthToken', $this->jamtoken );

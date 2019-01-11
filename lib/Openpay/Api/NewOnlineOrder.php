@@ -38,9 +38,10 @@ class NewOnlineOrder extends ApiConnection
 		$types = $this->xml->addChild('TenderTypes')->addChild('TenderType');
 		$types->addChild('Tender','Openpay');
 		$types->addChild('Amount',$this->PurchasePrice);
-		//print($this->xml->asXML());die();
 	    return $this->xml;
 	}
+	
+	//make the busket data request
 	public function BasketDataXmlBulder( $data, &$xml_data ) {
 		$mainNode = $xml_data->addChild('BasketData');
 		foreach( $data->BasketData['BasketItem'] as $key => $value ) {
@@ -67,7 +68,6 @@ class NewOnlineOrder extends ApiConnection
 	{
 	    try {
 		  	Validation::_validatePrice($this->PurchasePrice);
-		  	//Validation::_minmaxPrice($this->PurchasePrice);
 		  	//If the exception is thrown, this text will not be shown
 		  	$this->_updateUrl();
 		    $this->_prepareXmldocument();
