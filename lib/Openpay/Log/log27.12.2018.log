@@ -1,0 +1,6 @@
+order_status log time: 182.75.63.182 - December 27, 2018, 8:01 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021884","OrderStatus":"Approved","PlanStatus":"Active","PurchasePrice":"219.0000"}
+-------------------------
+Call-time: 202.191.214.153 - December 27, 2018, 8:08 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021910","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHe3BwN5iqLuyxLkNW6rE1OI="}
+-------------------------

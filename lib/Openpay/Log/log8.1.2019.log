@@ -1,0 +1,33 @@
+Call-time: 202.191.214.153 - January 8, 2019, 1:20 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000022562","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHVRLLfLL5leX7\/hKS1M3WZw="}
+-------------------------
+Call 3 log time: 202.191.214.153 - January 8, 2019, 1:22 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000022562","PurchasePrice":"500.0000"}
+-------------------------
+Call-time: 202.191.214.153 - January 8, 2019, 1:24 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000022563","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHTtkvxNh3XDEbTQiztRDgHM="}
+-------------------------
+Call 3 log time: 202.191.214.153 - January 8, 2019, 1:25 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000022563","PurchasePrice":"110.0000"}
+-------------------------
+Call 3 log time: 202.191.214.153 - January 8, 2019, 1:37 pm
+Log: {"status":"12732","reason":"Plan ID supplied is not valid for capture","PlanID":"3000000022563","PurchasePrice":{}}
+-------------------------
+Call 3 log time: 202.191.214.153 - January 8, 2019, 1:50 pm
+Log: {"status":"12732","reason":"Plan ID supplied is not valid for capture","PlanID":"3000000022562","PurchasePrice":{}}
+-------------------------
+Call 3 log time: 202.191.214.153 - January 8, 2019, 1:50 pm
+Log: {"status":"12732","reason":"Plan ID supplied is not valid for capture","PlanID":"3000000022562","PurchasePrice":{}}
+-------------------------
+Call-time: 202.191.214.153 - January 8, 2019, 1:51 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000022565","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHZcJfq6YN5qUQm3ha2BFZ9U="}
+-------------------------
+Call 3 log time: 202.191.214.153 - January 8, 2019, 1:51 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000022565","PurchasePrice":"110.0000"}
+-------------------------
+Call 3 log time: 202.191.214.153 - January 8, 2019, 1:53 pm
+Log: {"status":"12732","reason":"Plan ID supplied is not valid for capture","PlanID":"3000000022562","PurchasePrice":{}}
+-------------------------
+Call-time: 202.191.214.153 - January 8, 2019, 2:44 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000022569","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHdfkm+dZvj8vx0OXeFYBm9M="}
+-------------------------

@@ -1,0 +1,69 @@
+Call-time: 118.185.14.189 - December 28, 2018, 6:00 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021952","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHZyrUbHSYDQZyfwKvIIacJg="}
+-------------------------
+Call 3 log time: 118.185.14.189 - December 28, 2018, 6:01 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021952","PurchasePrice":"110.0000"}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 7:50 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021960","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHWhqCitU7ECMZDUIgmFXde4="}
+-------------------------
+Call 3 log time: 202.191.214.153 - December 28, 2018, 7:50 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021960","PurchasePrice":"220.0000"}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 7:56 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021961","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHSZNVXnAjRzw\/fSpDGu3wCc="}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 7:56 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021962","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHZ7341j6QiGbLg+mHQaIG00="}
+-------------------------
+Call 3 log time: 202.191.214.153 - December 28, 2018, 7:57 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021962","PurchasePrice":"220.0000"}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 8:01 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021963","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHcFn8U\/cz2Yr07Wg3GjaCLc="}
+-------------------------
+Call 3 log time: 202.191.214.153 - December 28, 2018, 8:02 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021963","PurchasePrice":"110.0000"}
+-------------------------
+Call 3 log time: 202.191.214.153 - December 28, 2018, 8:03 am
+Log: {"status":"12732","reason":"Plan ID supplied is not valid for capture","PlanID":"3000000021963","PurchasePrice":{}}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 8:05 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021964","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHfmUhIWTEj0hiOreUaGlJvQ="}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 8:07 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021966","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHbX+d0b7Ulh2FP9OeGXU4Ks="}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 8:09 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021969","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHcdmF7KXvW2UOVnaOSdiHUQ="}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 8:10 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021970","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHSVmbYZ4mNS1f4M3KsRD86w="}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 8:11 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021971","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHeCYHWyxw\/TWMgMXoxEmIP8="}
+-------------------------
+order_status log time: 202.191.214.153 - December 28, 2018, 8:23 am
+Log: {"status":"12704","reason":"Plan ID supplied does not exist","PlanID":"3000000021971","OrderStatus":"Refused","PlanStatus":"Refused","PurchasePrice":{}}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 8:24 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021972","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHatd8Grel2EGdirefupy+Ic="}
+-------------------------
+Call 3 log time: 202.191.214.153 - December 28, 2018, 8:25 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021972","PurchasePrice":"220.0000"}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 9:35 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021985","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHeIvDmPlkOJLWK+Zm5B+WAo="}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 10:13 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021992","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHegXnuE+qsQZcGOcw0IgvJ4="}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 2:38 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000022038","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHfznrKIvUNoQrUqs6z61Nc4="}
+-------------------------
+Call-time: 202.191.214.153 - December 28, 2018, 2:40 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000022039","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHZ6av8GXSi9LLrU5UrvSBrw="}
+-------------------------
+Call 3 log time: 202.191.214.153 - December 28, 2018, 2:41 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000022039","PurchasePrice":"110.0000"}
+-------------------------

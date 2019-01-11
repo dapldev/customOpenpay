@@ -1,0 +1,69 @@
+order_status log time: 118.185.14.189 - December 24, 2018, 7:40 am
+Log: {"status":"12704","reason":"Plan ID supplied does not exist","PlanID":"3000000021614","OrderStatus":"Refused","PlanStatus":"Refused","PurchasePrice":{}}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 7:40 am
+Log: {"status":"12704","reason":"Plan ID supplied does not exist","PlanID":"3000000021614","OrderStatus":"Refused","PlanStatus":"Refused","PurchasePrice":{}}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 7:56 am
+Log: {"status":"12704","reason":"Plan ID supplied does not exist","PlanID":"3000000021614","OrderStatus":"Refused","PlanStatus":"Refused","PurchasePrice":{}}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 7:57 am
+Log: {"status":"12704","reason":"Plan ID supplied does not exist","PlanID":"3000000021614","OrderStatus":"Refused","PlanStatus":"Refused","PurchasePrice":{}}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 8:48 am
+Log: {"status":"12704","reason":"Plan ID supplied does not exist","PlanID":"3000000021614","OrderStatus":"Refused","PlanStatus":"Refused","PurchasePrice":{}}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 10:25 am
+Log: {"status":"12704","reason":"Plan ID supplied does not exist","PlanID":"3000000021614","OrderStatus":"Refused","PlanStatus":"Refused","PurchasePrice":{}}
+-------------------------
+order_refund log time: 118.185.14.189 - December 24, 2018, 10:57 am
+Log: {"head":{"title":"Service","style":"BODY { color: #000000; background-color: white; font-family: Verdana; margin-left: 0px; margin-top: 0px; } #content { margin-left: 30px; font-size: .70em; padding-bottom: 2em; } A:link { color: #336699; font-weight: bold; text-decoration: underline; } A:visited { color: #6699cc; font-weight: bold; text-decoration: underline; } A:active { color: #336699; font-weight: bold; text-decoration: underline; } .heading1 { background-color: #003366; border-bottom: #336699 6px solid; color: #ffffff; font-family: Tahoma; font-size: 26px; font-weight: normal;margin: 0em 0em 10px -20px; padding-bottom: 8px; padding-left: 30px;padding-top: 16px;} pre { font-size:small; background-color: #e5e5cc; padding: 5px; font-family: Courier New; margin-top: 0px; border: 1px #f0f0e0 solid; white-space: pre-wrap; white-space: -pre-wrap; word-wrap: break-word; } table { border-collapse: collapse; border-spacing: 0px; font-family: Verdana;} table th { border-right: 2px white solid; border-bottom: 2px white solid; font-weight: bold; background-color: #cecf9c;} table td { border-right: 2px white solid; border-bottom: 2px white solid; background-color: #e5e5cc;}"},"body":{"div":{"@attributes":{"id":"content"},"p":["Service","Endpoint not found."]}}}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 11:05 am
+Log: {"status":"12704","reason":"Plan ID supplied does not exist","PlanID":"3000000021614","OrderStatus":"Refused","PlanStatus":"Refused","PurchasePrice":{}}
+-------------------------
+order_refund log time: 118.185.14.189 - December 24, 2018, 11:06 am
+Log: {"head":{"title":"Service","style":"BODY { color: #000000; background-color: white; font-family: Verdana; margin-left: 0px; margin-top: 0px; } #content { margin-left: 30px; font-size: .70em; padding-bottom: 2em; } A:link { color: #336699; font-weight: bold; text-decoration: underline; } A:visited { color: #6699cc; font-weight: bold; text-decoration: underline; } A:active { color: #336699; font-weight: bold; text-decoration: underline; } .heading1 { background-color: #003366; border-bottom: #336699 6px solid; color: #ffffff; font-family: Tahoma; font-size: 26px; font-weight: normal;margin: 0em 0em 10px -20px; padding-bottom: 8px; padding-left: 30px;padding-top: 16px;} pre { font-size:small; background-color: #e5e5cc; padding: 5px; font-family: Courier New; margin-top: 0px; border: 1px #f0f0e0 solid; white-space: pre-wrap; white-space: -pre-wrap; word-wrap: break-word; } table { border-collapse: collapse; border-spacing: 0px; font-family: Verdana;} table th { border-right: 2px white solid; border-bottom: 2px white solid; font-weight: bold; background-color: #cecf9c;} table td { border-right: 2px white solid; border-bottom: 2px white solid; background-color: #e5e5cc;}"},"body":{"div":{"@attributes":{"id":"content"},"p":["Service","Endpoint not found."]}}}
+-------------------------
+order_refund log time: 118.185.14.189 - December 24, 2018, 11:08 am
+Log: {"head":{"title":"Service","style":"BODY { color: #000000; background-color: white; font-family: Verdana; margin-left: 0px; margin-top: 0px; } #content { margin-left: 30px; font-size: .70em; padding-bottom: 2em; } A:link { color: #336699; font-weight: bold; text-decoration: underline; } A:visited { color: #6699cc; font-weight: bold; text-decoration: underline; } A:active { color: #336699; font-weight: bold; text-decoration: underline; } .heading1 { background-color: #003366; border-bottom: #336699 6px solid; color: #ffffff; font-family: Tahoma; font-size: 26px; font-weight: normal;margin: 0em 0em 10px -20px; padding-bottom: 8px; padding-left: 30px;padding-top: 16px;} pre { font-size:small; background-color: #e5e5cc; padding: 5px; font-family: Courier New; margin-top: 0px; border: 1px #f0f0e0 solid; white-space: pre-wrap; white-space: -pre-wrap; word-wrap: break-word; } table { border-collapse: collapse; border-spacing: 0px; font-family: Verdana;} table th { border-right: 2px white solid; border-bottom: 2px white solid; font-weight: bold; background-color: #cecf9c;} table td { border-right: 2px white solid; border-bottom: 2px white solid; background-color: #e5e5cc;}"},"body":{"div":{"@attributes":{"id":"content"},"p":["Service","Endpoint not found."]}}}
+-------------------------
+order_refund log time: 118.185.14.189 - December 24, 2018, 11:10 am
+Log: {"head":{"title":"Service","style":"BODY { color: #000000; background-color: white; font-family: Verdana; margin-left: 0px; margin-top: 0px; } #content { margin-left: 30px; font-size: .70em; padding-bottom: 2em; } A:link { color: #336699; font-weight: bold; text-decoration: underline; } A:visited { color: #6699cc; font-weight: bold; text-decoration: underline; } A:active { color: #336699; font-weight: bold; text-decoration: underline; } .heading1 { background-color: #003366; border-bottom: #336699 6px solid; color: #ffffff; font-family: Tahoma; font-size: 26px; font-weight: normal;margin: 0em 0em 10px -20px; padding-bottom: 8px; padding-left: 30px;padding-top: 16px;} pre { font-size:small; background-color: #e5e5cc; padding: 5px; font-family: Courier New; margin-top: 0px; border: 1px #f0f0e0 solid; white-space: pre-wrap; white-space: -pre-wrap; word-wrap: break-word; } table { border-collapse: collapse; border-spacing: 0px; font-family: Verdana;} table th { border-right: 2px white solid; border-bottom: 2px white solid; font-weight: bold; background-color: #cecf9c;} table td { border-right: 2px white solid; border-bottom: 2px white solid; background-color: #e5e5cc;}"},"body":{"div":{"@attributes":{"id":"content"},"p":["Service","Endpoint not found."]}}}
+-------------------------
+order_refund log time: 118.185.14.189 - December 24, 2018, 11:12 am
+Log: {"head":{"title":"Service","style":"BODY { color: #000000; background-color: white; font-family: Verdana; margin-left: 0px; margin-top: 0px; } #content { margin-left: 30px; font-size: .70em; padding-bottom: 2em; } A:link { color: #336699; font-weight: bold; text-decoration: underline; } A:visited { color: #6699cc; font-weight: bold; text-decoration: underline; } A:active { color: #336699; font-weight: bold; text-decoration: underline; } .heading1 { background-color: #003366; border-bottom: #336699 6px solid; color: #ffffff; font-family: Tahoma; font-size: 26px; font-weight: normal;margin: 0em 0em 10px -20px; padding-bottom: 8px; padding-left: 30px;padding-top: 16px;} pre { font-size:small; background-color: #e5e5cc; padding: 5px; font-family: Courier New; margin-top: 0px; border: 1px #f0f0e0 solid; white-space: pre-wrap; white-space: -pre-wrap; word-wrap: break-word; } table { border-collapse: collapse; border-spacing: 0px; font-family: Verdana;} table th { border-right: 2px white solid; border-bottom: 2px white solid; font-weight: bold; background-color: #cecf9c;} table td { border-right: 2px white solid; border-bottom: 2px white solid; background-color: #e5e5cc;}"},"body":{"div":{"@attributes":{"id":"content"},"p":["Service","Endpoint not found."]}}}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 11:14 am
+Log: {"status":"12704","reason":"Plan ID supplied does not exist","PlanID":"3000000021614","OrderStatus":"Refused","PlanStatus":"Refused","PurchasePrice":{}}
+-------------------------
+order_refund log time: 118.185.14.189 - December 24, 2018, 11:14 am
+Log: {"head":{"title":"Service","style":"BODY { color: #000000; background-color: white; font-family: Verdana; margin-left: 0px; margin-top: 0px; } #content { margin-left: 30px; font-size: .70em; padding-bottom: 2em; } A:link { color: #336699; font-weight: bold; text-decoration: underline; } A:visited { color: #6699cc; font-weight: bold; text-decoration: underline; } A:active { color: #336699; font-weight: bold; text-decoration: underline; } .heading1 { background-color: #003366; border-bottom: #336699 6px solid; color: #ffffff; font-family: Tahoma; font-size: 26px; font-weight: normal;margin: 0em 0em 10px -20px; padding-bottom: 8px; padding-left: 30px;padding-top: 16px;} pre { font-size:small; background-color: #e5e5cc; padding: 5px; font-family: Courier New; margin-top: 0px; border: 1px #f0f0e0 solid; white-space: pre-wrap; white-space: -pre-wrap; word-wrap: break-word; } table { border-collapse: collapse; border-spacing: 0px; font-family: Verdana;} table th { border-right: 2px white solid; border-bottom: 2px white solid; font-weight: bold; background-color: #cecf9c;} table td { border-right: 2px white solid; border-bottom: 2px white solid; background-color: #e5e5cc;}"},"body":{"div":{"@attributes":{"id":"content"},"p":["Service","Endpoint not found."]}}}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 11:32 am
+Log: {"status":"12704","reason":"Plan ID supplied does not exist","PlanID":"3000000021614","OrderStatus":"Refused","PlanStatus":"Refused","PurchasePrice":{}}
+-------------------------
+Call-time: 118.185.14.189 - December 24, 2018, 11:34 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021856","EncryptedPlanID":"fhlexjSQG29NTGcYmFArHcuOVh9E2kJRXVxhWNQyqfY="}
+-------------------------
+Call 3 log time: 118.185.14.189 - December 24, 2018, 11:37 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021856","PurchasePrice":"110.0000"}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 11:37 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021856","OrderStatus":"Approved","PlanStatus":"Active","PurchasePrice":"110.0000"}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 11:44 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021856","OrderStatus":"Approved","PlanStatus":"Active","PurchasePrice":"110.0000"}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 11:46 am
+Log: {"status":"0","reason":{},"PlanID":"3000000021856","OrderStatus":"Approved","PlanStatus":"Active","PurchasePrice":"110.0000"}
+-------------------------
+order_status log time: 118.185.14.189 - December 24, 2018, 1:04 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000021856","OrderStatus":"Approved","PlanStatus":"Active","PurchasePrice":"55.0000"}
+-------------------------
+order_status log time: 202.191.214.153 - December 24, 2018, 1:32 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000021856","OrderStatus":"Approved","PlanStatus":"Active","PurchasePrice":"50.0000"}
+-------------------------
+order_status log time: 202.191.214.153 - December 24, 2018, 1:57 pm
+Log: {"status":"0","reason":{},"PlanID":"3000000021856","OrderStatus":"Approved","PlanStatus":"Active","PurchasePrice":"44.0000"}
+-------------------------
