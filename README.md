@@ -1,9 +1,9 @@
-#Openpay Sdk Documentation:
+<h1>Openpay Sdk Documentation:</h1>
 
 
 This docmetation basically for non composer php. if you want to use our sdk for composer based php like laravel go to in lib folder and take OpenPayLaravel folder. and delete the other one. There is an instruction for the use.
 
-###Non composer php framework/Custom php:
+<h3>Non composer php framework/Custom php:</h3>
 
 
 - **Copy the lib folder into the root of the project**
@@ -29,7 +29,7 @@ This docmetation basically for non composer php. if you want to use our sdk for 
 **$current\_url**= http://phpsdk.openpaytestandtrain.com.au;
 -----------------------------------------------------------------------------
  <br>                          
-###                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User Parameters from site
+<h3>                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User Parameters from site</h3>
 
 
 
@@ -149,8 +149,8 @@ This docmetation basically for non composer php. if you want to use our sdk for 
 - **After the process is complete, the Jam system will redirect to the URL supplied along with a response value for the transaction.**
 
 
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Success Url :
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JamCallbackURL]?status=SUCCESS&planid=3000000022284&orderid=1402
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Success Url :
+</h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JamCallbackURL]?status=SUCCESS&planid=3000000022284&orderid=1402
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Success Result :**
@@ -166,7 +166,7 @@ This docmetation basically for non composer php. if you want to use our sdk for 
 
 
 <br>
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cancel Url : 
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cancel Url :</h5> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JamCancelURL or JamCallbackURL]?status=CANCELLED&planid=3000000022284&orderid=1402
 
 
@@ -182,7 +182,7 @@ This docmetation basically for non composer php. if you want to use our sdk for 
 
 
 <br>
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Failure Url : 
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Failure Url :</h5> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JamFailURL or JamCallbackURL]?status=FAILURE&planid=3000000022284&orderid=1402
 
 
@@ -243,7 +243,7 @@ This docmetation basically for non composer php. if you want to use our sdk for 
 </pre>
 
 
-######Results :
+<h5>Results :</h5>
 
 <pre style="background-color: #d3f1f3; color: black;">    Call-time: 202.191.214.153 - January 3, 2019, 9:35 am
     Log: {
@@ -280,7 +280,7 @@ This docmetation basically for non composer php. if you want to use our sdk for 
 
 
 
-######Results : <br>
+<h5>Results :</h5> <br>
 1.After Purchase:
 
 <pre style="background-color: #e7f3d3; color: black;">    order_status log time: 202.191.214.153 - January 3, 2019, 9:08 am</pre>
@@ -347,7 +347,7 @@ This docmetation basically for non composer php. if you want to use our sdk for 
 
 <br>
 
-####Refund process will be excute as per the following steps.
+<h4>Refund process will be excute as per the following steps:</h4>
 <pre style="background-color: #e3d1e9; color: black;">
 &nbsp;&nbsp;&nbsp;&nbsp;1. At the time of full refund the $ReducePriceBy should be set null and $type should be set False.
 
@@ -358,7 +358,7 @@ This docmetation basically for non composer php. if you want to use our sdk for 
 </pre>
 <br>
 
-#####Results :
+<h5>Results :</h5>
 
 1. For certain amount refund:
 <pre style="background-color: #e7f3d3; color: black;"> 
@@ -428,7 +428,7 @@ order_refund log time: 202.191.214.153 - January 3, 2019, 9:26 am</pre>
     die;
 </pre>
 
-######Results :
+<h5>Results :</h5>
  
 <pre style="background-color: #e7f3d3; color: black;">order_dispatch log time: 202.191.214.153 - January 3, 2019, 9:44 am</pre>
 
